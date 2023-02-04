@@ -34,7 +34,7 @@ basic [vial/via instructions](https://docs.keeb.supply/basics/firmware/viaandvia
 
 ## kudos:
 
-- the [0xCB](https://0xcb.dev/) team for being great to work with and for doing all the legwork to make this happen and available
+- the [0xCB](https://0xcb.dev/) team for being great to work with and for doing all the legwork to make this happen and available (also for providing all the great product pictures)
 
 - [GEIST](https://github.com/GEIGEIGEIST) for being a great help with figuring out how to do the silkscreen and having a lot of valuable design input
 
