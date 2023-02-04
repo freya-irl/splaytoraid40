@@ -25,9 +25,10 @@ it is currently available on [keeb.supply](https://keeb.supply/products/splaytor
 
 ## firmware:
 
-[ZMK](https://github.com/freya-irl/zmk)  
-[Vial](https://files.keeb.supply/firmware/Splaytoraid/)  
-WIP/NOT FINISHED [KMK](https://github.com/moritz-john/kmk-config-splaytoraid)
+- [ZMK](https://github.com/freya-irl/zmk)  
+- [Vial](https://files.keeb.supply/firmware/Splaytoraid/)  
+- WIP/NOT FINISHED [KMK](https://github.com/moritz-john/kmk-config-splaytoraid)
+
 ## documentation:
 
 there is an [interactive overview](https://freya-irl.github.io/splaytoraid40/ibom) of the PCB, complete [assembly instructions](https://docs.keeb.supply/splaytoraid/)
@@ -46,4 +47,5 @@ WIP/NOT FINISHED [KMK documentation](https://moritz-john.github.io/kmk-config-sp
 
 - [moritz-john](https://github.com/moritz-john) for the ongoing work of porting the splaytoraid to KMK
 
-- all the early supporters of my gatoraid/splaytoraid development history with testing, building, using, design inputs and being a generally great community to be in
+- all the early supporters of my gatoraid/splaytoraid development history with testing, building, using, design inputs and being a generally great community to be in:
+[freja liv](https://github.com/eldritch-elder)
