@@ -27,14 +27,14 @@ it is currently available on [keeb.supply](https://keeb.supply/products/splaytor
 
 - [ZMK](https://github.com/freya-irl/zmk)  
 - [Vial](https://files.keeb.supply/firmware/Splaytoraid/)  
-- WIP/NOT FINISHED [KMK](https://github.com/moritz-john/kmk-config-splaytoraid)
+- [KMK](https://github.com/moritz-john/kmk-config-splaytoraid)
 
 ## documentation:
 
 - there is an [interactive overview](https://freya-irl.github.io/splaytoraid40/ibom) of the PCB, complete [assembly instructions](https://docs.keeb.supply/splaytoraid/)
 basic [vial/via instructions](https://docs.keeb.supply/basics/firmware/viaandvial/#VIAL) with a [flashing guide](https://docs.keeb.supply/basics/firmware/flashing/).
 
-- WIP/NOT FINISHED [KMK documentation](https://moritz-john.github.io/kmk-config-splaytoraid/)
+- [KMK documentation](https://moritz-john.github.io/kmk-config-splaytoraid/)
 
 
 ## kudos:
